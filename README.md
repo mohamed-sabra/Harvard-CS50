@@ -1,2 +1,2 @@
 # Harvard-CS50
-Labs and Problems sets of the CS50 course at Harvard University
+Labs and Problem Sets of the CS50 course at Harvard University
